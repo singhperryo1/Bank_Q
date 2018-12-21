@@ -3,7 +3,7 @@ Bank_Q is a C++ program that simulate the waiting queue in a bank.
 * Bank Queue Simulation program model the behavior of customer's waiting queue in a bank.
 * The program provide statistics of each customer's arrival, transaction, and waiting time, then, compute & display the average waiting time of all customers in this time period.
 ## Prerequisites
-* Any suitable IDE (Integerated Development Environment) for C++. 
+* Any suitable IDE (Integrated Development Environment) for C++. 
 ## Tech
 * C++. 
 ## Future Enhancements 
