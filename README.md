@@ -12,4 +12,4 @@ Bank_Q is a C++ program that simulate the waiting queue in a bank.
 * Display Customer's last name follwed by first name separated by comma. 
 * Display current time for customers. 
 ## Links
-[LinkedIn Profile](https://www.linkedin.com/in/singhperry01/)
+* [LinkedIn Profile](https://www.linkedin.com/in/singhperry01/)
